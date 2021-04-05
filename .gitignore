@@ -2,3 +2,6 @@
 /env
 Procfile
 *.txt
+/templates
+/app1
+
