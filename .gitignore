@@ -16,3 +16,4 @@ lol.*
 templates/*
 about.html
 !base.html
+new/
