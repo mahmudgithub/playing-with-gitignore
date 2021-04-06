@@ -2,7 +2,6 @@
 /env
 Procfile
 # *.txt
-# /templates
 /app1
 
 lamyaa.txt
@@ -14,5 +13,6 @@ three/*
 # first.txt
 *.txt
 lol.*
+templates/*
 about.html
-**base.html
+!base.html
