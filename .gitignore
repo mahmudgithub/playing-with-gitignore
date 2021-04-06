@@ -1,9 +1,13 @@
 /db.sqlite3
 /env
 Procfile
-*.txt
+# *.txt
 /templates
 /app1
 
 lamyaa.txt
 hello2/hello3/hello4/**/*.txt
+# three
+# three/ss.txt
+three/*
+!ss.txt
