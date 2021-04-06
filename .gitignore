@@ -16,4 +16,5 @@ lol.*
 templates/*
 about.html
 !base.html
-new
+new/*
+!one.py
