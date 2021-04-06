@@ -12,3 +12,4 @@ hello2/hello3/hello4/**/*.txt
 three/*
 !ss.txt
 # first.txt
+*.txt
